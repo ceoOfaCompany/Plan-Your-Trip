@@ -1,0 +1,146 @@
+
+body {
+    background-color: #270E2D !important;
+}
+
+nav {
+    background-color:#270E2D;
+}
+textarea.Details {
+    text-shadow:1px solid #660885;
+
+}
+div.home {
+    padding-left: 10%;
+}
+
+button.btn-primary{
+    background-color: #fc0097;
+    border-color: #BD00FF ;
+}
+text.Details{
+    color: white;
+
+
+}
+div.offcanvas {
+    background-color: #270E2D;
+    max-width: 75%;
+
+}
+button.btn-close {
+    margin-left:5%;
+    margin-top: 5%;
+}
+
+img.rounded-sm {
+    max-width: 90%;
+    max-height: 90%;
+}
+hr.horizontalrulenav {
+    border: 2px solid;
+    max-width: 100%;
+}
+
+
+section.bodytext {
+    background-color: #270E2D !important;
+    
+}
+
+div.trip {
+    padding-top:10%;
+    max-width: 100%;
+    padding-left: 12%;
+    padding-right: 8%;
+}
+.triptext {
+    color: white;
+
+}
+
+div.container-try {
+    padding:0;
+}
+
+img.rounded-lg {
+    margin-bottom: 5%;
+    margin-right: 0%;
+    max-width:100%;
+}
+
+
+
+
+
+section.flexbox {
+    background-color: #BD00FF!important;
+}
+
+div.happy {
+    height: 100%;
+    max-height: 100%;
+    background-color: #BD00FF !important;
+
+}
+h3.happyhead {
+    padding-top: 15%;
+    margin-left: 40%;
+    margin-right: 40%;
+    max-width: 100%;
+}
+
+
+div.card {
+    background-color: #270E2D !important;
+}
+
+hr.horizontalrule {
+    border: 1px solid;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+div.Waves{
+    position: relative;
+    width:100%;
+    height:100%;
+    background-color: #270E2D  !important ;
+
+
+
+}
+div.bodyMatter {
+    margin-left: auto;
+    margin-right:0%;
+    padding: 0%;
+}
+
+
+img.img-lg{
+    top:40%;
+    bottom: 0;
+    max-width: 70%;
+    margin-left: 30%;
+    z-index: 1;
+}
+
+i.bi-chevron-compact-up {
+    max-width: 120%;
+    max-height: 120%;
+}
+
+hr{
+    color: rgb(255, 125, 255);
+    }
+
+
+
+
+
+
+
